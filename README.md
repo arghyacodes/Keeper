@@ -1,6 +1,7 @@
 # Keeper
 
-![Project Image](https://drive.google.com/file/d/1mcH1dVEH3oJQSgjbfbLBgxOH13AifA-D/view?usp=sharing)
+![Project Image](https://github.com/arghyacodes/Keeper/blob/main/images/demo.png)
+![Project Image](https://github.com/arghyacodes/Keeper/blob/main/images/demo.gif)
 > [Live demo](https://arghyacodes.github.io/Keeper/)
 
 ---
